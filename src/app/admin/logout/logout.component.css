@@ -1,0 +1,28 @@
+h2{
+  color: blue;
+}
+
+input.ng-invalid{
+  border-left: 5px solid red;
+}
+
+input.ng-valid{
+  border-left: 5px solid rgb(0, 255, 76);
+}
+
+input{
+  background-color: rgb(157, 229, 181);
+  font-weight: bold;
+  font-stretch: condensed;
+  font-style: initial;
+}
+
+.label-color{
+  color: violet;
+  font-weight: bold;
+  font-style: italic;
+}
+
+.error{
+  color: red;
+}

@@ -1,0 +1,58 @@
+[
+  { "ID" :1,
+  "SellRent":1,
+    "Type":"house",
+    "Price":12999,
+    "Name":"Beach Villa",
+    "Image":"prop-1"
+  },
+  { "ID" :2,
+  "SellRent":1,
+    "Type":"Villa",
+    "Price":18999,
+    "Name":"Sunset Villa",
+    "Image":"prop-2"
+  },
+  { "ID" :3,
+  "SellRent":2,
+    "Type":"Apartment",
+    "Price":15000,
+    "Name":"Sunrise Apartments",
+    "Image":"prop-3"
+  },
+  { "ID" :4,
+  "SellRent":2,
+    "Type":"Condo",
+    "Price":12875,
+    "Name":"Beach Condo",
+    "Image":"prop-4"
+  },
+  { "ID" :5,
+  "SellRent":2,
+    "Type":"Condo",
+    "Price":1299,
+    "Name":"Cheap Condo",
+    "Image":"prop-5"
+  },
+  { "ID" :6,
+  "SellRent": 1,
+    "Type":"house",
+    "Price":34500,
+    "Name":"Best Mansion",
+    "Image":"prop-6"
+  },
+  { "ID" :7,
+  "SellRent":2,
+    "Type":"house",
+    "Price":129999,
+    "Name":"Dream Home",
+    "Image":"prop-7"
+  },
+  { "ID" :8,
+    "SellRent" :1,
+    "Type":"Flat",
+    "Price":15800,
+    "Name":"Epitome Flats"
+
+  }
+  ]
